@@ -11,7 +11,7 @@
 }
 
 .caracteristicas p{
-    font-size: 18px;
+    font-size: 24px;
 }   
 
 .caracteristicas img{
@@ -24,3 +24,8 @@ text-align: center;
 ;
 
 }
+.ingreientes li{
+font-size: 18px;
+
+}
+
