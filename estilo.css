@@ -1,0 +1,27 @@
+
+.titulo h1{
+    background-color: darksalmon;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 12px;
+}
+
+.caracteristicas h2{
+    text-align: center;
+}
+
+.caracteristicas p{
+    font-size: 18px;
+}   
+
+.caracteristicas img{
+    width: 30%;
+    margin-left: 35%;
+}
+
+.caracteristicas p{
+text-align: center;
+;
+
+}
