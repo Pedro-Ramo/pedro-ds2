@@ -9,6 +9,13 @@
 
 .caracteristicas h2{
     text-align: center;
+
+    
+}
+.caracteristicas img{
+width: 700px;
+height: 400px;
+
 }
 
 .caracteristicas p{
@@ -23,5 +30,15 @@
 .caracteristicas p{
 text-align: center;
 ;
+
+}
+
+.Prox{
+
+img{
+width: 450px;
+height: 300px;
+
+}
 
 }
